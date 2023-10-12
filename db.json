@@ -1,0 +1,169 @@
+{
+  "alert": [
+    {
+      "id": 1,
+      "alertText": "Watch ZapConnect sessions",
+      "alertTextLink": "on-demand"
+    }
+  ],
+  "navbar": [
+    {
+      "id": 1,
+      "logo": "https://www.lachance.media/wp-content/uploads/2019/04/632318b71498920b064c66bd_zapier-logo_black-1.png",
+      "navlink1": "Product",
+      "navlink2": "Solutions",
+      "navlink3": "Resources & Support",
+      "navlink4": "Pricing",
+      "navlink5": "Contact Sales",
+      "button1Text": "Log in",
+      "button2Text": "Sign up"
+    }
+  ],
+  "herosection": [
+    {
+      "id": 1,
+      "heroSectionHeader": "Scales by success with automation hello",
+      "heroSectionHeaderParagraph": "Build automated workflows customized for your role and business.",
+      "heroSectionButton1": "Start free with email",
+      "heroSectionButton2": "Start free with Google",
+      "heroSectionMarker1B": "Free forever",
+      "heroSectionMarker1P": "for core features",
+      "heroSectionMarker2B": "More apps",
+      "heroSectionMarker2P": "for core features",
+      "heroSectionVideo": "https://res.cloudinary.com/zapier-media/video/upload/q_auto:eco/f_auto/v1686662583/Homepage/automation_isnt_magic_wf4k5d.mp4"
+    }
+  ],
+  "imagemarquee": [
+    {
+      "id": 1,
+      "image1": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685631505/Company%20logos/asana_sgibbb.svg",
+      "image2": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685631509/Company%20logos/zendesk_g4uhso.svg",
+      "image3": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685631505/Company%20logos/calendly_cte1mk.svg",
+      "image4": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685631782/Company%20logos/lyft_xb3vqy.svg",
+      "image5": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685631507/Company%20logos/hudl_wd0it2.svg",
+      "image6": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685631505/Company%20logos/getaround_flyjf8.svg",
+      "image7": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685631508/Company%20logos/service-titan_xlpa7i.svg",
+      "image8": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685631505/Company%20logos/dropbox_bfeqf0.svg",
+      "image9": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685631506/Company%20logos/hopper_znzw24.svg",
+      "image10": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685631507/Company%20logos/hello-fresh_spytbw.svg",
+      "image11": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685631507/Company%20logos/miro_j2v5f7.svg",
+      "image12": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685631505/Company%20logos/active-campaign_jaoigk.svg"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "card1Image": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/f_auto/v1686783449/Homepage/zapier-home-usecase_syh9ch.png",
+      "card1Heading": "Build custom workflows in minutes",
+      "card1Paragraph": "Automate the busywork, so you can focus on your job, not your tools. We'll show you how.",
+      "card1LinkText": "Explore Use Cases",
+      "card2Image": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/f_auto/v1686783449/Homepage/zapier-home-hiw_vxz8us.png",
+      "card2Heading": "Get more power from your tools",
+      "card2Paragraph": "Integrate your critical work apps into workflows, reclaim your time, and focus on impactful work.",
+      "card2LinkText": "Learn how Zapier works",
+      "card3Image": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/f_auto/v1686658565/Homepage/Turn_Static_s9fi7l.png",
+      "card3Heading": "Connect the apps you already love",
+      "card3Paragraph": "Zapier supports more apps than any other platform, so you can optimize the tools you use.",
+      "card3LinkText": "Explore by app"
+    }
+  ],
+  "Featuresection": [
+    {
+      "id": 1,
+      "featureMasterHeading": "Create apps with built-in automation",
+      "featureTopHeading": "Build your own no-code apps",
+      "featureTopParagraph": "Use Zapier Interfaces to power your lead generation, onboarding, client portals, and other dashboards.",
+      "featureTopLinkText": "Try Interfaces",
+      "featureBottomHeading": "Upgrade your database",
+      "featureBottomParagraph": "Zapier Tables makes it easy for you to store, manage, and take action on your data.",
+      "featureBottomLinkText": "Try Tables"
+    }
+  ],
+  "SimpleFeaturesection": [
+    {
+      "id": 1,
+      "SimpleFeaturesectionMasterHeading": "Bring the power of AI to Zapier",
+      "SimpleFeaturesectionLeftHeading": "Build Zaps in plain English",
+      "SimpleFeaturesectionLeftParagraph": "Simply describe what you'd like to automate, and our AI tools will write the code and build your Zaps for you.",
+      "SimpleFeaturesectionLeftLinkText": "Build now",
+      "SimpleFeaturesectionMiddleHeading": "Create custom AI chatbots",
+      "SimpleFeaturesectionMiddleParagraph": "Answer customer questions or simplify complex topics by building your own trained chatbot—no coding required.",
+      "SimpleFeaturesectionMiddleLinkText": "Learn more",
+      "SimpleFeaturesectionRightHeading": "Power your apps with AI",
+      "SimpleFeaturesectionRightParagraph": "Bring AI tools like OpenAI to the apps you use daily. Explore our 30+ AI app partners to power critical processes.",
+      "SimpleFeaturesectionRightLinkText": "Try it for free"
+    }
+  ],
+  "Testimonials": [
+    {
+      "id": 1,
+      "TestimonialsTopHeading": "1.8 million+ businesses",
+      "TestimonialsBottomHeading": "feel the magic",
+      "TestimonialsButtonText": "Sign up for free",
+      "TestimonialsUserImage": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/f_auto/v1672770288/Homepage/Twitter%20avatars/ashleynhwarren_vfsh8q.jpg",
+      "TestimonialsUser": "Jessica Morrison",
+      "TestimonialsUserName": "@jessicasnr",
+      "TestimonialReview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut metus a lorem volutpat vulputate. Sed nec justo ac lorem feugiat fringilla. Sed lacinia odio ut lectus congue, id finibus orci fermentum."
+    }
+  ],
+  "BuilderBlock": [
+    {
+      "id": 1,
+      "BuilderBlockImage": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/v1685628568/Zapier%20logos/zapier-logo-no-space_hihmgg.svg"
+    }
+  ],
+  "Footer": [
+    {
+      "id": 1,
+      "pageNumbersHeading": "Apps by Title",
+      "FooterRow1Heading": "Top Searches",
+      "FooterRow1Link1": "Slack Integrations",
+      "FooterRow1Link2": "Salesforce Integrations",
+      "FooterRow1Link3": "HubSpot CRM Integrations",
+      "FooterRow1Link4": "PayPal Integrations",
+      "FooterRow1Link5": "Asana Integrations",
+      "FooterRow1Link6": "Show More",
+      "FooterRow2Heading": "Popular Apps",
+      "FooterRow2Link1": "Dropbox",
+      "FooterRow2Link2": "Google Sheets",
+      "FooterRow2Link3": "DocuSign",
+      "FooterRow2Link4": "WordPress",
+      "FooterRow2Link5": "Office 365",
+      "FooterRow2Link6": "Show More",
+      "FooterRow3Heading": "Trending Apps",
+      "FooterRow3Link1": "Twitch",
+      "FooterRow3Link2": "Printful",
+      "FooterRow3Link3": "Microsoft To-Do",
+      "FooterRow3Link4": "Microsoft Outlook",
+      "FooterRow3Link5": "Medium",
+      "FooterRow3Link6": "Show More",
+      "FooterRow4Heading": "Top Apps by Category",
+      "FooterRow4Link1": "Project Management",
+      "FooterRow4Link2": "Calender",
+      "FooterRow4Link3": "Email",
+      "FooterRow4Link4": "CRM (Customer Relationship",
+      "FooterRow4Link5": "Management)",
+      "FooterRow4Link6": "Marketing Automation",
+      "FooterRow4Link7": "Show More",
+      "FooterRow5Heading": "Our Best Content",
+      "FooterRow5Link1": "Best Video Conferencing Apps",
+      "FooterRow5Link2": "Best Email Apps",
+      "FooterRow5Link3": "Best CRM Apps",
+      "FooterRow5Link4": "Best Note Taking",
+      "FooterRow5Link5": "Best Calender Apps",
+      "FooterRow5Link6": "Show More",
+      "FooterSocialMediaLinkText": "Follow us",
+      "SiteLink1Text": "Pricing",
+      "SiteLink2Text": "Help",
+      "SiteLink3Text": "Developer Plotform",
+      "SiteLink4Text": "Press",
+      "SiteLink5Text": "Jobs",
+      "SiteLink6Text": "Zapier for Caompanies",
+      "SiteLink7Text": "Transfer",
+      "PrivacyPolicyCopyright": "2023 Zapier Inc.",
+      "PrivacyPolicyLink1": "Manage Cookies",
+      "PrivacyPolicyLink2": "Legal",
+      "PrivacyPolicyLink3": "Privacy"
+    }
+  ]
+}
